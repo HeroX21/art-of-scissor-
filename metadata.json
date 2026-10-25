@@ -1,0 +1,6 @@
+{
+  "name": "ART OF SCISSOR Unisex Salon",
+  "description": "Premium unisex salon in Burari, New Delhi offering haircuts, hair spa, hair colouring, facials, and grooming packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
